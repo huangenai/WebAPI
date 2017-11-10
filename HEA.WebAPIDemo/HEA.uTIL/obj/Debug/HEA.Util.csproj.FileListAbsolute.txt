@@ -1,0 +1,5 @@
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.uTIL\bin\Debug\HEA.uTIL.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.uTIL\bin\Debug\HEA.uTIL.pdb
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.uTIL\obj\Debug\HEA.Util.csprojResolveAssemblyReference.cache
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.uTIL\obj\Debug\HEA.uTIL.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.uTIL\obj\Debug\HEA.uTIL.pdb

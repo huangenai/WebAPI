@@ -1,0 +1,1201 @@
+
+ 
+记录时间：2016-03-07 16:08:24,464 
+线程ID:[11] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：AccountController
+            ActionName:Login
+            开始时间：2016/3/7 16:08:24
+            结束时间：2016/3/7 16:08:24
+            总 时 间：0.2121678秒
+            Action参数：phone=13242760783&hashedPassword=123456&deviceType=0&clientId=
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+Origin: http://localhost:50977
+
+            客户端IP：,
+            HttpMethod:POST
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:52,248 
+线程ID:[15] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:52
+            结束时间：2016/3/7 16:13:52
+            总 时 间：0.023036秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:54,277 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:54
+            结束时间：2016/3/7 16:13:54
+            总 时 间：0.006003秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:54,405 
+线程ID:[15] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:54
+            结束时间：2016/3/7 16:13:54
+            总 时 间：0.0050036秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:54,563 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:54
+            结束时间：2016/3/7 16:13:54
+            总 时 间：0.0040029秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:54,716 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:54
+            结束时间：2016/3/7 16:13:54
+            总 时 间：0.0040054秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:54,868 
+线程ID:[15] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:54
+            结束时间：2016/3/7 16:13:54
+            总 时 间：0.0049843秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,027 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0040149秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,174 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0060244秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,325 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0040032秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,490 
+线程ID:[15] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0040033秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,646 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0070054秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,778 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0040212秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:55,932 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:55
+            结束时间：2016/3/7 16:13:55
+            总 时 间：0.0040045秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:56,095 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:56
+            总 时 间：0.0080061秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:56,263 
+线程ID:[15] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:56
+            总 时 间：0.0090059秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:56,405 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:56
+            总 时 间：0.0050057秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:56,562 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:56
+            总 时 间：0.0090064秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:56,711 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:56
+            总 时 间：0.0080061秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:56,836 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:56
+            总 时 间：0.0050036秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,000 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:56
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0080069秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,146 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:57
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0040011秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,293 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:57
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0050326秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,462 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:57
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0080049秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,623 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:57
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0060064秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,762 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:57
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0030034秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:57,931 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:57
+            结束时间：2016/3/7 16:13:57
+            总 时 间：0.0040063秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:58,096 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:58
+            结束时间：2016/3/7 16:13:58
+            总 时 间：0.0090141秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:58,244 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:58
+            结束时间：2016/3/7 16:13:58
+            总 时 间：0.0050036秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:58,406 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:58
+            结束时间：2016/3/7 16:13:58
+            总 时 间：0.0060094秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:58,540 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:58
+            结束时间：2016/3/7 16:13:58
+            总 时 间：0.0050031秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:58,727 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:58
+            结束时间：2016/3/7 16:13:58
+            总 时 间：0.0070046秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:58,946 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:58
+            结束时间：2016/3/7 16:13:58
+            总 时 间：0.004002秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:59,123 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:59
+            结束时间：2016/3/7 16:13:59
+            总 时 间：0.0030013秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:59,253 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:59
+            结束时间：2016/3/7 16:13:59
+            总 时 间：0.0060047秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:59,412 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:59
+            结束时间：2016/3/7 16:13:59
+            总 时 间：0.006003秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:59,567 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:59
+            结束时间：2016/3/7 16:13:59
+            总 时 间：0.0080061秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:13:59,748 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:13:59
+            结束时间：2016/3/7 16:13:59
+            总 时 间：0.0050036秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:00,082 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:00
+            结束时间：2016/3/7 16:14:00
+            总 时 间：0.0190126秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:00,196 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:00
+            结束时间：2016/3/7 16:14:00
+            总 时 间：0.005013秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:00,405 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:00
+            结束时间：2016/3/7 16:14:00
+            总 时 间：0.0050057秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:00,582 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:00
+            结束时间：2016/3/7 16:14:00
+            总 时 间：0.0080053秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:00,749 
+线程ID:[10] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:00
+            结束时间：2016/3/7 16:14:00
+            总 时 间：0.0050091秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:00,909 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:00
+            结束时间：2016/3/7 16:14:00
+            总 时 间：0.0060047秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:01,068 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:01
+            结束时间：2016/3/7 16:14:01
+            总 时 间：0.0050015秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:01,228 
+线程ID:[28] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:01
+            结束时间：2016/3/7 16:14:01
+            总 时 间：0.0050083秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:01,355 
+线程ID:[27] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:01
+            结束时间：2016/3/7 16:14:01
+            总 时 间：0.0050031秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 
+
+ 
+记录时间：2016-03-07 16:14:01,499 
+线程ID:[6] 
+日志级别：  INFO  
+日志描述：
+            Action执行时间监控：
+            ControllerName：UsersController
+            ActionName:GetUserById
+            开始时间：2016/3/7 16:14:01
+            结束时间：2016/3/7 16:14:01
+            总 时 间：0.0040033秒
+            Action参数：sessionKey=aae9415afb1165f85688e39d7279a4a3&id=1
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: zh-CN, zh; q=0.8
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+
+            客户端IP：,
+            HttpMethod:GET
+                    
+ 

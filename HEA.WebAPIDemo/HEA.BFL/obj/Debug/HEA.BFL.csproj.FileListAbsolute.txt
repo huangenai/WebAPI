@@ -1,0 +1,16 @@
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.BFL.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.BFL.pdb
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.Model.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\bin\Debug\JCE.Dapper.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.Model.pdb
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\obj\Debug\HEA.BFL.csprojResolveAssemblyReference.cache
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\obj\Debug\HEA.BFL.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\obj\Debug\HEA.BFL.pdb
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.BFL.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.BFL.pdb
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.Model.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\bin\Debug\JCE.Dapper.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\bin\Debug\HEA.Model.pdb
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\obj\Debug\HEA.BFL.csprojResolveAssemblyReference.cache
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\obj\Debug\HEA.BFL.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\obj\Debug\HEA.BFL.pdb

@@ -1,0 +1,59 @@
+
+ 
+记录时间：2016-07-26 11:57:48,789 
+线程ID:[7] 
+日志级别：  ERROR 
+错误描述：
+                请求【AccountController】的【AnonymousLogin】产生异常：
+                Action参数：ip=120.102.12.2&deviceType=0&clientId=
+               Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8
+Cookie: language=zh-CN
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Origin: http://localhost:50977
+
+                客户端IP：::1,
+                HttpMethod:POST
+                    
+ 
+System.Data.SqlClient.SqlException (0x80131904): 无法打开登录所请求的数据库 "HEAAPI"。登录失败。
+用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 JCE.Dapper.ExModel.DbBase..ctor(String connectionStringName)
+   在 HEA.BFL.BaseBll.CreateDbBase() 位置 g:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\BaseBll.cs:行号 20
+   在 HEA.BFL.BaseBll.GetQuery[T]() 位置 g:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\BaseBll.cs:行号 28
+   在 HEA.BFL.UsersController.GetUserDevice(String ip, Int32 deviceType) 位置 g:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.BFL\UsersController.cs:行号 36
+   在 HEA.WebAPIDemo.API.AuthenticationService.GetUserDevice(String ip, Int32 deviceType) 位置 g:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.WebAPIDemo\API\AuthenticationService.cs:行号 77
+   在 HEA.WebAPIDemo.Controllers.AccountController.AnonymousLogin(String ip, Int32 deviceType, String clientId) 位置 g:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.WebAPIDemo\Controllers\AccountController.cs:行号 87
+   在 lambda_method(Closure , Object , Object[] )
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+ClientConnectionId:7e932861-28e2-47b0-bc45-3496baa476c3
+Error Number:4060,State:1,Class:11

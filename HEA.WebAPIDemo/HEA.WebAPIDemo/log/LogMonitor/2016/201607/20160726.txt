@@ -1,0 +1,27 @@
+
+ 
+记录时间：2016-07-26 11:57:48,779 
+线程ID:[7] 
+日志级别：  INFO  
+跟踪描述：
+            Action执行时间监控：
+            ControllerName：AccountController
+            ActionName:AnonymousLogin
+            开始时间：2016/7/26 11:57:37
+            结束时间：2016/7/26 11:57:48
+            总 时 间：10.6394258秒
+            Action参数：ip=120.102.12.2&deviceType=0&clientId=
+            Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8
+Cookie: language=zh-CN
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Origin: http://localhost:50977
+
+            客户端IP：,
+            HttpMethod:POST
+                    
+ 

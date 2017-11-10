@@ -1,0 +1,126 @@
+
+ 
+记录时间：2016-03-13 15:53:23,518 
+线程ID:[16] 
+日志级别：  ERROR 
+错误描述：
+                请求【UsersController】的【UserRegistration】产生异常：
+                Action参数：sessionKey=a92acc083815e2e7fa364f4aaad57f68&modelUsers=HEA.Model.Request.AddUserRq&__EntityParamsList__={
+  "UserName": "45",
+  "Password": "123",
+  "Sex": "NV",
+  "Phone": "string",
+  "TrueName": "string"
+}
+               Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8
+Cookie: ASP.NET_SessionId=wcxqsz0wrkcz0tjlsqwmoquo
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+Origin: http://localhost:50977
+
+                客户端IP：::1,
+                HttpMethod:POST
+                    
+ 
+System.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引 'IX_UsersPhoneOnly' 的对象 'dbo.Users' 中插入重复键的行。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 JCE.Dapper.DapperEx.Insert[T](DbBase dbs, T t, IDbTransaction transaction, Nullable`1 commandTimeout)
+   在 HEA.BFL.BaseBll.Add[T](T model) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\BaseBll.cs:行号 41
+   在 HEA.BFL.UsersController.RegistrationNewUsers(Users modelUsers) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\UsersController.cs:行号 111
+   在 HEA.WebAPIDemo.API.UsersImpl.RegistrationNewUsers(Users modelUsers) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.WebAPIDemo\API\UsersImpl.cs:行号 27
+   在 HEA.WebAPIDemo.Controllers.UsersController.UserRegistration(String sessionKey, AddUserRq modelUsers) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.WebAPIDemo\Controllers\UsersController.cs:行号 51
+   在 lambda_method(Closure , Object , Object[] )
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+ClientConnectionId:e1b35dcc-f26d-40fe-b6b4-ea28c3ecf17b
+Error Number:2601,State:1,Class:14
+
+ 
+记录时间：2016-03-13 15:53:23,802 
+线程ID:[18] 
+日志级别：  ERROR 
+错误描述：
+                请求【UsersController】的【UserRegistration】产生异常：
+                Action参数：sessionKey=a92acc083815e2e7fa364f4aaad57f68&modelUsers=HEA.Model.Request.AddUserRq&__EntityParamsList__={
+  "UserName": "45",
+  "Password": "123",
+  "Sex": "NV",
+  "Phone": "string",
+  "TrueName": "string"
+}
+               Http请求头:Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN, zh; q=0.8
+Cookie: ASP.NET_SessionId=wcxqsz0wrkcz0tjlsqwmoquo
+Host: localhost:50977
+Referer: http://localhost:50977/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2593.0 Safari/537.36
+Origin: http://localhost:50977
+
+                客户端IP：::1,
+                HttpMethod:POST
+                    
+ 
+System.Data.SqlClient.SqlException (0x80131904): 不能在具有唯一索引 'IX_UsersPhoneOnly' 的对象 'dbo.Users' 中插入重复键的行。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 JCE.Dapper.DapperEx.Insert[T](DbBase dbs, T t, IDbTransaction transaction, Nullable`1 commandTimeout)
+   在 HEA.BFL.BaseBll.Add[T](T model) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\BaseBll.cs:行号 41
+   在 HEA.BFL.UsersController.RegistrationNewUsers(Users modelUsers) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.BFL\UsersController.cs:行号 111
+   在 HEA.WebAPIDemo.API.UsersImpl.RegistrationNewUsers(Users modelUsers) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.WebAPIDemo\API\UsersImpl.cs:行号 27
+   在 HEA.WebAPIDemo.Controllers.UsersController.UserRegistration(String sessionKey, AddUserRq modelUsers) 位置 c:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.WebAPIDemo\Controllers\UsersController.cs:行号 51
+   在 lambda_method(Closure , Object , Object[] )
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   在 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 System.Web.Http.Filters.ActionFilterAttribute.<CallOnActionExecutedAsync>d__5.MoveNext()
+ClientConnectionId:e1b35dcc-f26d-40fe-b6b4-ea28c3ecf17b
+Error Number:2601,State:1,Class:14

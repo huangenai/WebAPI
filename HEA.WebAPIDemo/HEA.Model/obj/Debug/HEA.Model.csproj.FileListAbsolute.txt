@@ -1,0 +1,12 @@
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.Model\bin\Debug\HEA.Model.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.Model\bin\Debug\HEA.Model.pdb
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.Model\bin\Debug\JCE.Dapper.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.Model\obj\Debug\HEA.Model.csprojResolveAssemblyReference.cache
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.Model\obj\Debug\HEA.Model.dll
+C:\Users\Huang Enai\Desktop\HEA.WebAPIDemo\HEA.Model\obj\Debug\HEA.Model.pdb
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.Model\bin\Debug\HEA.Model.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.Model\bin\Debug\HEA.Model.pdb
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.Model\bin\Debug\JCE.Dapper.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.Model\obj\Debug\HEA.Model.csprojResolveAssemblyReference.cache
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.Model\obj\Debug\HEA.Model.dll
+G:\搜集库\自己Demo\HEA.WebAPIDemo\HEA.WebAPIDemo\HEA.Model\obj\Debug\HEA.Model.pdb
